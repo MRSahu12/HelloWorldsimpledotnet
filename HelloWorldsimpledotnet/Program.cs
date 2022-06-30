@@ -11,7 +11,7 @@ namespace HelloWorldsimpledotnet
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World !!!!");
-            Console.WriteLine("Enter any keys for EXIT !!!");
+            //Console.WriteLine("Enter a keysfor EXIT !!!");
             Console.ReadLine();
         }
     }
